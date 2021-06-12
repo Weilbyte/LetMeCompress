@@ -3,7 +3,7 @@ By default the game lowers the time compression to 1x when in combat, this mod r
 
 ### Installation 
 
-Install BepInEx by following this [guide](https://docs.bepinex.dev/master/articles/user_guide/installation/index.html), after the first run, download `LetMeCompress.dll` from the release page here and save it to `War on the Sea\BepInEx\plugins\LetMeCompress\LetMeCompress.dll`. Now start the game and the time compression limitations should be gone!
+Install BepInEx by following this [guide](https://docs.bepinex.dev/master/articles/user_guide/installation/index.html), after the first run, download `LetMeCompress-0.1.0.zip` from the release page here and extract it to `War on the Sea\BepInEx\plugins\`. Now start the game and the time compression limitations should be gone!
 
 Open an issue if there's an error.
 
