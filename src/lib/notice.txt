@@ -1,0 +1,8 @@
+|From BepInEx:
+|-0Harmony.dll
+|-BepInEx.dll
+|-BepIneX.Harmony.dll
+
+|From War on the Sea:
+|-Assembly-CSharp.dll
+|-UnityEngine.dll
