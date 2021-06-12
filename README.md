@@ -1,5 +1,5 @@
 # LetMeCompress
-By default the game lowers the time compression to 1x when in combat, this mod removes that so you can enjoy War on the Sea combat without havng to wait 2 hours. 
+By default the game lowers the time compression to 1x when in combat, this mod removes that so you can enjoy War on the Sea combat without having to wait 2 hours. 
 
 ### Installation 
 
